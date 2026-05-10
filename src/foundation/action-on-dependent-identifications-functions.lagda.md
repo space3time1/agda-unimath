@@ -26,7 +26,7 @@ function `f : (x : A) → (u : B x) → C` maps a
 
 ## Definition
 
-### Functorial action of functions on dependent identity types
+### The action of families of functions on dependent identifications
 
 ```agda
 adp :
